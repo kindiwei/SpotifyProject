@@ -1,4 +1,5 @@
-Olá, meu nome é Kindi.
+Hello, my name is Kindi.
 
-Seja bem vindo!
-Este diretório contém meu portifólio de projetos relacionados à dados (Analytics, Science e Engenharia).
+Here, you will find analysis from Spotify datasets (csv file) distributed from Kaggle.
+
+I'm very thankfull to share my code/notebooks.
